@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tnovyloo
 - 👀 I’m interested in programming, art of bonsai, photography and chess. 
-- 🌱 I’m currently learning intermediate/expert Python and i am begginer in C#
+- 🌱 I’m currently learning intermediate Python and i am begginer in C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> Loobrome@gmail.com or novaphoto.s on Instagram
 
