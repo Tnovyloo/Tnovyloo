@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning intermediate/Advance Python and i am begginer in C#
+- 🌱 I’m currently learning intermediate/Advanced Python
 - 📫 You can reach me on -> Loobrome@gmail.com or novaphoto.s on Instagram
 
 <!---
