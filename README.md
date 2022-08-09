@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning intermediate/Advanced Python
+- 🌱 I’m currently learning Python Django.
 - 📫 You can reach me on -> Loobrome@gmail.com or novaphoto.s on Instagram
 
 <!---
