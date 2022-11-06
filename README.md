@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning Python Django.
+- 🌱 Python - Django, Django REST developer.
 - 📫 You can reach me on -> Loobrome@gmail.com or novaphoto.s on Instagram
 
 <!---
