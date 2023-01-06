@@ -1,5 +1,5 @@
-Django, Django REST wannabe developer.
-You can reach me on -> Loobrome@gmail.com or novaphoto.s on Instagram
+Django, Django REST developer.
+You can reach me on -> Loobrome@gmail.com
 
 <!---
 Tnovyloo/Tnovyloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
