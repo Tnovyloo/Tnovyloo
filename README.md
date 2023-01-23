@@ -1,4 +1,4 @@
-Django, Django REST developer.
+Django developer
 You can reach me on -> Loobrome@gmail.com
 
 <!---
